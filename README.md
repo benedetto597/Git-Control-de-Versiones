@@ -30,6 +30,12 @@ _____
 |Working Directory |Donde se trabaja con todos los archivos|
 |Staging Area|Donde se agregan los archivos a guardar en git|
 |Repository|Donde se guardan los archivos en formato git| 
+
+### Credenciales | Git User Git Email
+* **git config user.name** : Nombre del usuario
+* **git config user.email** : Correo del usuario
+* **git config --global user.name "Nombre Usuario"** : Cambiar Nombre del usuario
+* **git config --global user.email "Correo Usuario"** : Cambiar Correo del usuario
 ### Comandos básicos
 * **git init** : Inicializa un repositorio git
 * **git status** : Muestra el estado de los archivos (si estan en staging area o en el respositorio)
