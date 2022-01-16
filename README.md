@@ -36,7 +36,7 @@ _____
   * Luego de insertar ***git commit*** 
     1. Se debe tocar la tecla **i** para insertar el mensaje del commit en el editor de texto **Vim**
     2. Al finalizar el mensaje se debe teclear **Esc** 
-    3. Escribir **:wq** para guardar el archivo 
+    3. Escribir **:wq** para **w - write** para guardar el archivo y **q - quit** para salir del editor 
   * **git commit -m "mensaje"** : Agregar un mensaje al commit
 * **git checkout -- < file >** : Deshacer los cambios hechos en el staging area
 * **git diff** : Muestra los cambios que se han hecho en el staging area
@@ -46,7 +46,10 @@ _____
 * **git branch** : Crear una rama
 * **git merge** : Unir dos ramas
 * **git clone** : Clonar un repositorio
-
+<br>
+### Git Ignore - No tomar en cuenta archivos
+1. Crear un archivo llamado **.gitignore** en el directorio del proyecto
+2. Escribir el nombre o ruta de los archivos que no se quieren subir al repositorio
 ### Bibliogrfía
 * [Git Pagina Oficial](https://git-scm.com/)
 * [Git Documentación](https://git-scm.com/docs)
