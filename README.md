@@ -33,10 +33,16 @@ _____
 * **git status** : Muestra el estado de los archivos (si estan en staging area o en el respositorio)
 * **git add < files >** : Agregar archivos al staging area
 * **git commit** : Guardar los archivos del staging area al repositorio (crear un primer snapshot)
+  * Luego de insertar ***git commit*** 
+    1. Se debe tocar la tecla **i** para insertar el mensaje del commit en el editor de texto **Vim**
+    2. Al finalizar el mensaje se debe teclear **Esc** 
+    3. Escribir **:wq** para guardar el archivo 
+  * **git commit -m "mensaje"** : Agregar un mensaje al commit
+* **git checkout -- < file >** : Deshacer los cambios hechos en el staging area
+* **git diff** : Muestra los cambios que se han hecho en el staging area
 * **git push** : Enviar los archivos del staging area a un repositorio remoto
 * **git pull** : Recibir los archivos de un repositorio remoto (cambios hechos por otros desarrolladores)
 * **git log** : Muestra los commits hechos en el repositorio
-* **git checkout** : Deshacer los cambios hechos en el staging area
 * **git branch** : Crear una rama
 * **git merge** : Unir dos ramas
 * **git clone** : Clonar un repositorio
