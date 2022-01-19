@@ -12,6 +12,7 @@
 | Edgar Josué Benedetto Godoy | `20171033802` | [Gmail](mailto:ejbg597@gmail.com) |
 
 </div>
+
 _____
 _____
 
