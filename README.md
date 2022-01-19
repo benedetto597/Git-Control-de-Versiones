@@ -5,12 +5,13 @@
 ## Git | Control de versiones
 ## Enero 2022
 ### Autor 
-</div>
+
 
 | Nombre | Numero De Cuenta | Correo |
 |:-------------:| :-----:|:-----:|
 | Edgar Josué Benedetto Godoy | `20171033802` | [Gmail](mailto:ejbg597@gmail.com) |
 
+</div>
 _____
 _____
 
