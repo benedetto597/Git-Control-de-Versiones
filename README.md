@@ -58,6 +58,7 @@ _____
 * **git log** : Muestra los commits hechos en el repositorio
 * **git merge** : Unir dos ramas
 * **git clone** : Clonar un repositorio
+* **git log --stat** : Muestra el historial del estado de los archivos en el commit
 
 _____
 
